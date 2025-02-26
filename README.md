@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software Engineering is the process of developing, testing and maintaining a software
+-Software Engineering is the process of developing, testing and maintaining a software
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 mastering complexity - enables efficient reuse of object-oriented software and thus improves building software productivity.
@@ -85,7 +85,6 @@ Software Accessibility and Usability - Overly complex software can frustrate or 
 Solution: Use scalable architecture, Emphasize reliability.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
  - help to ensure data flows smoothly between modules and interfaces work as expected.
@@ -99,8 +98,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
-engineering  is the process where you guide generative AI solutions to generate desired outputs.
+-Prompt engineering is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
